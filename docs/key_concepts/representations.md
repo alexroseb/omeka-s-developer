@@ -196,7 +196,7 @@ piece generally has its own method.
 ## Item-specific methods
 
 - `media` returns all the media assigned to the item, as an array of MediaRepresentations
-- `itemSets` returns all the item sets the item is in, as an array of ItemSetRepresentations
+- `itemSets` returns all the item sets the item is in, as an array of ItemSetRepresentations. The keys of the array are the IDs of the item sets.
 
 ## Item set-specific methods
 
