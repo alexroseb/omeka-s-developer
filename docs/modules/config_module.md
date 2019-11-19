@@ -3,8 +3,10 @@ title: Creating Configurable Modules
 ---
 
 Files to edit:
- - M
+ - Module.php - `handleConfigForm`
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTY3MTEzOSwtMTI0MDE2MTcyMV19
+eyJoaXN0b3J5IjpbLTEwMjMxMDYwMzQsLTEyNDAxNjE3MjFdfQ
+==
 -->
